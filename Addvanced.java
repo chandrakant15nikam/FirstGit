@@ -4,7 +4,10 @@ public String validateAge(float age){
 
 if (age > 18){
 
-Sout("your are eligible");
+if (age < 60){
+// call requeired method
+}
+
 }
 
 }
